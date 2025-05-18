@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node.js / Frontend
+node_modules/
+dist/
+npm-debug.log
+.npm/
+.eslintcache
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.pnp
+.pnp.js
+coverage/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.directory
+.fuse_hidden*
+.Trash-*
+.nfs*
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# 本地配置
+.env
+
+# 媒体文件（防止误传）
+*.mp4
+*.mp3
+*.avi
+*.mkv
+*.flac
+*.wav
+
+# 缓存目录
+noediv_cache/ 
